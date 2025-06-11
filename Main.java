@@ -60,7 +60,7 @@ public class Main {
 
 
 
-output:
+/* output:
 Contacts before sorting:
 Name: Yaswanth, Phone: 7989748050
 Name: Raja, Phone: 9704451483
@@ -70,3 +70,4 @@ Contacts after sorting:
 Name: Raja, Phone: 9704451483
 Name: Sabeel, Phone: 9989889335
 Name: Yaswanth, Phone: 7989748050
+    */
